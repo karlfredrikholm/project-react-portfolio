@@ -22,7 +22,7 @@ const Dot = styled.span`
 const Summary = () => {
   return (
     <SectionContainer bg>
-      <Paragraph main summary>
+      <Paragraph main padd>
         <Line />
         <Dot />
           Welcome! I&apos;m a freshly baked web developer named Fredrik. With a
@@ -30,12 +30,12 @@ const Summary = () => {
           as possible. Always eager to deepen my knowledge and sharpen my coding
           skills.
       </Paragraph>
-      <Paragraph main summary>
-          All of the projects in this portfolio
-          was made fall 2022 during <a href="https://www.technigo.io/web-development-boot-camp" target="_blank" rel="noreferrer">Technigo Web Development Bootcamp</a>.
+      <Paragraph main padd>
+          The projects in this portfolio
+          was made fall 2022 as weekly assignments during <a href="https://www.technigo.io/web-development-boot-camp" target="_blank" rel="noreferrer">Technigo Web Development Bootcamp</a> and has not been updated since.
       </Paragraph>
       <Paragraph main>
-        I am currently working as a frontend developer at <a href="https://fullystudios.se/" target="_blank" rel="noreferrer">Fully Studios</a>.
+       I&apos;m currently working as a frontend developer at <a href="https://fullystudios.se/" target="_blank" rel="noreferrer">Fully Studios</a>.
       </Paragraph>
     </SectionContainer>
   );

@@ -10,8 +10,7 @@ export const Reveal = ({ children }) => {
     if (isInView) {
       mainControls.start('visible');
     }
-    console.log(isInView);
-  }, [isInView]);
+  }, [isInView, mainControls]);
 
   return (
     <div ref={ref}>

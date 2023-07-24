@@ -5,7 +5,7 @@ const Paragraph = styled.p`
   line-height: var(--line-height);
   text-align: ${({ center }) => (center ? 'center' : 'left')};
   transition: all .3s ease;
-  padding-bottom: ${({ main, summary }) => (main && summary && '1rem')};
+  padding-bottom: ${({ padd }) => (padd && '1rem')};
 
   ${({ grid }) => (grid
     ? { margin: '0', width: '95%' }
