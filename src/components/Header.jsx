@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import profilePic from '../assets/profile_pic.jpeg';
-import { GitHubSvg, StackSvg, LinkedInSvg } from './Icons';
+import { GitHubSvg, LinkedInSvg } from './Icons';
 
 const Header = () => {
   return (
@@ -25,16 +25,6 @@ const Header = () => {
           aria-hidden>
           <div>
             <GitHubSvg />
-          </div>
-        </a>
-        <a
-          href="https://stackoverflow.com/users/19384002/fredrik-holm"
-          target="_blank"
-          title="Link to Stack Overflow Profile"
-          rel="noreferrer"
-          aria-hidden>
-          <div>
-            <StackSvg />
           </div>
         </a>
       </IconsContainer>
@@ -73,7 +63,7 @@ const StyledHeader = styled.header`
 const IconsContainer = styled.div`
   display: flex;
   justify-content: end;
-  gap: 1.5rem;
+  gap: 1rem;
   position: absolute;
   top: 2.5rem;
   right: 4.5rem;

@@ -19,7 +19,7 @@ const App = () => {
     fetch(BASE_URL)
       .then((res) => res.json())
       .then((data) => setRepos(data))
-      .catch((error) => console.error(error))
+      .catch((error) => console.error(error));
   }, []);
 
   return (

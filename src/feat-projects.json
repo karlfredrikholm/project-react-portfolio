@@ -8,33 +8,6 @@
     "topics": [ "Redux", "React", "CSS3"],
     "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/redux_todo.png"
   },
-  { 
-    "name": "Happy Thoughts",
-    "project_name": "Project: Happy Thoughts",
-    "description": "Project made to practice hooks and GET/POST requests to API.",
-    "github_url": "https://github.com/karlfredrikholm/project-happy-thoughts/",
-    "netlify_url": "https://gladatankar.netlify.app/",
-    "topics": [ "React", "JS ES6", "CSS3"],
-    "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/happy_thoughts.png"
-  },
-  { 
-    "name": "Movies",
-    "project_name": "Project: Movies",
-    "description": "Project done to practice React Router, the useParams hook etc.",
-    "github_url": "https://github.com/karlfredrikholm/project-movies",
-    "netlify_url": "https://nitflax.netlify.app/",
-    "topics": [ "React Router", "API", "CSS3"],
-    "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/project_movies.png"
-  },
-  {
-    "name": "Log in",
-    "project_name": "Project: Register/login",
-    "description": "Simple login flow made to practice Express, MongoDB etc.",
-    "github_url": "https://github.com/karlfredrikholm/project-auth",
-    "netlify_url": "https://glittery-halva-09357e.netlify.app/",
-    "topics": [ "Express", "MongoDB", "React"],
-    "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/project_auth.png"
-  },
   {
     "name": "Survey",
     "project_name": "Project: Survey",
@@ -54,12 +27,39 @@
     "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/weather_app.png"
   },
   { 
-    "name": "Music",
+    "name": "Music Releases",
     "project_name": "Project: Music Releases",
     "description": "First React project! Done to get familiar with props and React in general.",
     "github_url": "https://github.com/karlfredrikholm/project-music-releases/",
     "netlify_url": "https://schpoutefi.netlify.app/",
     "topics": [ "React", "JS ES6", "CSS3"],
     "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/music_releases.png"
+  },
+  { 
+    "name": "Movies",
+    "project_name": "Project: Movies",
+    "description": "Project done to practice React Router, the useParams hook etc.",
+    "github_url": "https://github.com/karlfredrikholm/project-movies",
+    "netlify_url": "https://nitflax.netlify.app/",
+    "topics": [ "React Router", "API", "CSS3"],
+    "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/project_movies.png"
+  },
+  { 
+    "name": "Happy Thoughts",
+    "project_name": "Project: Happy Thoughts",
+    "description": "Project made to practice hooks and GET/POST requests to API.",
+    "github_url": "https://github.com/karlfredrikholm/project-happy-thoughts/",
+    "netlify_url": "https://gladatankar.netlify.app/",
+    "topics": [ "React", "JS ES6", "CSS3"],
+    "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/happy_thoughts.png"
+  },
+  {
+    "name": "Log in",
+    "project_name": "Project: Register/login",
+    "description": "Simple login flow made to practice Express, MongoDB etc.",
+    "github_url": "https://github.com/karlfredrikholm/project-auth",
+    "netlify_url": "https://glittery-halva-09357e.netlify.app/",
+    "topics": [ "Express", "MongoDB", "React"],
+    "image": "https://raw.githubusercontent.com/karlfredrikholm/project-react-portfolio/master/src/assets/project_auth.png"
   }
 ]

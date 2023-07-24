@@ -7,9 +7,6 @@ const Footer = () => {
     <StyledFooter>
       <h4>Contact</h4>
       <Paragraph main center>
-        Fredrik Holm
-      </Paragraph>
-      <Paragraph main center>
         <a href="mailto:karlfredrikholm@gmail.com">
           karlfredrikholm@gmail.com
         </a>

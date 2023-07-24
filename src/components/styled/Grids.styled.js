@@ -22,6 +22,7 @@ export const SkillsGrid = styled.div`
 
   & h5 {
     text-transform: uppercase;
+    margin-bottom: .2rem;
   }
 
   & ul {
