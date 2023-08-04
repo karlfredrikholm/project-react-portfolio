@@ -32,7 +32,7 @@ const Summary = () => {
       </Paragraph>
       <Paragraph main padd>
           The projects in this portfolio
-          was made fall 2022 as weekly assignments during <a href="https://www.technigo.io/web-development-boot-camp" target="_blank" rel="noreferrer">Technigo Web Development Bootcamp</a> and has not been updated since.
+          were made fall 2022 as weekly assignments during <a href="https://www.technigo.io/web-development-boot-camp" target="_blank" rel="noreferrer">Technigo Web Development Bootcamp</a> and has not been updated since.
       </Paragraph>
       <Paragraph main>
        I&apos;m currently working as a frontend developer at <a href="https://fullystudios.se/" target="_blank" rel="noreferrer">Fully Studios</a>.
