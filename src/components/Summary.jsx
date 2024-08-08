@@ -25,7 +25,7 @@ const Summary = () => {
       <Paragraph main padd>
         <Line />
         <Dot />
-          Welcome! I&apos;m a freshly baked web developer named Fredrik. With a
+          Welcome! I&apos;m a web developer named Fredrik. With a
           background in office management I now strive to keep my code as neat
           as possible. Always eager to deepen my knowledge and sharpen my coding
           skills.
@@ -35,7 +35,7 @@ const Summary = () => {
           were made fall 2022 as weekly assignments during <a href="https://www.technigo.io/web-development-boot-camp" target="_blank" rel="noreferrer">Technigo Web Development Bootcamp</a> and has not been updated since.
       </Paragraph>
       <Paragraph main>
-       I&apos;m currently working as a frontend developer at <a href="https://fullystudios.se/" target="_blank" rel="noreferrer">Fully Studios</a>.
+       Since January 2023 I'm working as a frontend developer at <a href="https://fullystudios.se/" target="_blank" rel="noreferrer">Fully Studios</a>.
       </Paragraph>
     </SectionContainer>
   );
