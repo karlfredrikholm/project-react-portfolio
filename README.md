@@ -10,4 +10,4 @@ When I had been working on the portfolio for a while I thought I had too many st
 
 ## View it live
 
-https://fredrikholm.netlify.com
+https://fredrikholm.dev
