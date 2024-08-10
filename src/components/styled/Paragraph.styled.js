@@ -10,6 +10,15 @@ const Paragraph = styled.p`
   ${({ grid }) => (grid
     ? { margin: '0', width: '95%' }
     : { margin: 'var(--margin)', width: 'var(--width)' })};
+
+  & a {
+    text-decoration: underline;
+    ${({ thoughts }) => (thoughts && { marginTop: '0.5rem' })};
+  }
+  
+  & a:hover {
+    color: var(--main-color);
+  }
 `;
 
 export default Paragraph;
